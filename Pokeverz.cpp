@@ -3,7 +3,7 @@
 #include<ctime>
 #include<wchar.h>
 #include<stdlib.h>
-//idk
+//idk pito
 #include<windows.h>
 #include<mmsystem.h>
 //para los dialogos
